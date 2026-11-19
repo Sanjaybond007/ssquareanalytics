@@ -150,7 +150,6 @@ Dependencies are listed in `requirements.txt`. The current file pins Flask, Pand
 ## Contributors
 
 - Sanjay B
-- Subash V
 
 ## License
 
